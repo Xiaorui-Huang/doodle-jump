@@ -19,3 +19,6 @@ After configuration, click **Connect to MIPS**, assemble the code and run
 - k - go right
 - s - respawn (when Game Over)
 
+## Demo
+
+https://user-images.githubusercontent.com/42769475/142275258-1143dcc3-984a-4bdb-acf7-fc294da5ffe8.mp4
