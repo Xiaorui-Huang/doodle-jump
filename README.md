@@ -1,7 +1,7 @@
 # doodle-jump
-Doodle jump in Minecraft style with MIPS assembly
+[Doodle jump](https://poki.com/en/g/doodle-jump "The original") in Minecraft style with MIPS assembly 
 
-This game was written and simulated using MIPS Assembly and Runtime Simulator version 4.5 on a Windows system
+This game was written and simulated using [MIPS Assembly and Runtime Simulator](http://courses.missouristate.edu/kenvollmar/mars/ "Please download and give the game a try🥺") version 4.5 on a Windows system
 
 ## For display and keyboard configuration
 Go to Tools, select **Bitmap display** as well as **Keyboard and Display MMIO Simulator**
