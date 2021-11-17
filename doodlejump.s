@@ -1,10 +1,5 @@
 #####################################################################
 #
-# CSC258H5S Fall 2020 Assembly Final Project (Minecraft Themed doodler)
-# University of Toronto, St. George
-#
-# Student: Xiaorui Huang, 1006118087
-#
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
 # - Unit height in pixels: 8
@@ -12,19 +7,7 @@
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
 #
-# Which milestone is reached in this submission?
-# Milestone 4
-#
-# Which approved additional features have been implemented?
-# 1. Game over/retry
-# 2. Scoreboard/ score count
-#
-# STILL WORKING ON/ TO BE IMPLEMENTED
-# 3.Boosting items
-# 4.Dynamic on-screen graphics
-# 5.Lethal Creatures
-#
-# Any additional information that the TA needs to know:
+# Game Controls
 # J: doodler move left
 # K: doodler move rigt
 # S: retry after Game Over
