@@ -29,11 +29,11 @@ wget https://courses.missouristate.edu/kenvollmar/mars/MARS_4_5_Aug2014/Mars4_5.
 ## For display and keyboard configuration
 Go to Tools, select **Bitmap display** as well as **Keyboard and Display MMIO Simulator**
 ### Bitmap Display Configuration:
-- Unit width in pixels: 8
-- Unit height in pixels: 8
-- Display width in pixels: 256
-- Display height in pixels: 256
-- Base Address for Display: 0x10008000 ($gp)
+- Unit width in pixels: `8`
+- Unit height in pixels: `8`
+- Display width in pixels: `256`
+- Display height in pixels: `256`
+- Base Address for Display: `0x10008000 ($gp)`
 
 After configuration, Click **Connect to MIPS** on both windows
 
